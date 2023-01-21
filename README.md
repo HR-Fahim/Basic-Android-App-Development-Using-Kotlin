@@ -33,7 +33,7 @@ Experimental features have used, such as:
 # Caution
 - The project was tested on `Pixel 2 XL API 22-1440x2880 560dpi/Android 5.1 x86 (Emulator)`. It can create problems with different versions of `Android-Emulators`.<br />
 - Error values show as `NaN` on Calculator.<br />
-- The values come always as fraction value by default.<br />
+- The answers come always as fraction by default.<br />
 
 Except for this, there are not any known bugs till now. If facing any issues, let me know or contact me.
 # Support[<sup> @github/support <sup/>](https://support.github.com/)
