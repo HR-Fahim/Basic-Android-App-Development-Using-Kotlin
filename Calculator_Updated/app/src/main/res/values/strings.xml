@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Calculator_Updated</string>
+
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="delete">DEL</string>
+    <string name="AC">AC</string>
+
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="exponential">EXP</string>
+    <string name="answer">ANS</string>
+    <string name="equal">=</string>
+
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="display">Enter a value</string>
+
+    <string name="item_1">Dark Mode</string>
+    <string name="about">Info</string>
+    <string name="more">More</string>
+    <string name="checkable">Dark Mode</string>
+    <string name="back">Back</string>
+
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="appName">abc</string>
+    <string name="versionName">xyz</string>
+    <string name="versionCode"></string>
+    <string name="about_text">
+        Developed By HR\n\nContact: hrfprofessiona@gmail.com\n\nThank You!
+    </string>
+
+
+</resources>
