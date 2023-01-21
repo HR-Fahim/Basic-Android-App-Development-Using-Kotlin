@@ -27,7 +27,7 @@ Experimental features have used in this application, such as:
 # Requirements
 - `Android-Studio`<br />
 # Installation
-1. Unzip the `Calculator_Final.rar` and put the `Calculator_Upated` folder inside `"/home/USER/Projects/AndroidStudio"` or you can open it from `Android-Studio`. To open it from `Anroid-Studio`, select `file` from menu and select `open`. Next, choose the `Calculator_Updated` folder.
+1. Unzip the `Calculator_Final.rar` or can use direct `Calculator_Upated` folder and put the `Calculator_Upated` folder inside `"/home/USER/Projects/AndroidStudio"` or you can open it from `Android-Studio`. To open it from `Anroid-Studio`, select `file` from menu and select `open`. Next, choose the `Calculator_Updated` folder.
 2. You will have to add the `MathParser.org-mXparser.jar` library inside `"Calculator_Upated -> app -> libs"`.
 3. Then select `libs` folder; right click and select `Add As Library` from menu; select `ok`.
 # Caution
