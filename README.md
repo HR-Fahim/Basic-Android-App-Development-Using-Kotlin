@@ -1,11 +1,27 @@
+# About
 A demo of Android App-Development using `Android-Studio`. Here, a calculator application has been developed as a demo android application. `Kotlin` & `Java` library have been used to develop this application.
 Experimental features have used in this application, such as:
 - Day & Night Mode.
 - `Item` options on `Menu-Bar`.
 - Opening a new Window from `Items` in `Menu-bar`.
 - Auto Scientific Mode on Landscape Mode.
+- Dialogue Box & Radio Buttons.
 
 <sub> ****P.S.*** Experimental Self-developed project (Although, Youtube tutorial supports have taken while developing the project).*<sub/>
+# Screenshots
+<img
+  src="https://user-images.githubusercontent.com/66734379/213888039-ae04e922-7440-4efa-88da-9a721295b330.png"
+  alt="Dialogue-Box/Radio-Button from Menu Item"
+  width="300" height="609"/>&emsp;
+  <img
+  src="https://user-images.githubusercontent.com/66734379/213888060-4070c3be-81d2-423b-a293-64f785c73048.png"
+  alt="Dark-Mode"
+  width="300" height="609"/><br />
+  
+  <img
+  src="https://user-images.githubusercontent.com/66734379/213888685-b8b7ab33-b973-4664-b9db-1469f8d9e278.png"
+  alt="Scientific-Mode Landscape"
+  width="609" height="300"/>
 # Requirements
 - `Android-Studio`<br />
 # Installation
