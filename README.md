@@ -37,7 +37,6 @@ Experimental features have used, such as:
 
 Except for this, there are not any known bugs till now. If facing any issues, let me know or contact me.
 # Support[<sup> @github/support <sup/>](https://support.github.com/)
-This is my first uploaded project on GitHub. Hope so, any type of mistakes will be considered.<br />
 You can assist the project in a number of ways:
 - Star the repository.
 - Follow me on [GitHub](https://github.com/HR-Fahim).
