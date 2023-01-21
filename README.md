@@ -21,7 +21,9 @@ Experimental features have used in this application, such as:
   <img
   src="https://user-images.githubusercontent.com/66734379/213888685-b8b7ab33-b973-4664-b9db-1469f8d9e278.png"
   alt="Scientific-Mode Landscape"
-  width="609" height="300"/>
+  width="609" height="300"/><br />
+  
+  A demo video added in the files for quick preview.
 # Requirements
 - `Android-Studio`<br />
 # Installation
