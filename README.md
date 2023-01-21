@@ -1,6 +1,6 @@
 # About
 A demo of Android App-Development using `Android-Studio`. Here, a calculator application has been developed as a demo android application. `Kotlin` & `Java` library have been used to develop this application.
-Experimental features have used in this application, such as:
+Experimental features have used, such as:
 - Day & Night Mode.
 - `Item` options on `Menu-Bar`.
 - Opening a new Window from `Items` in `Menu-bar`.
